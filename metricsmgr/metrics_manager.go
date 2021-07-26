@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/goware/go-metrics"
+	"github.com/armon/go-metrics"
 	"github.com/pressly/chainstore"
 	"golang.org/x/net/context"
 )
