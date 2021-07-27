@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/pressly/chainstore"
+	"github.com/albsen/chainstore"
 	"github.com/stretchr/testify/assert"
 	"golang.org/x/net/context"
 )

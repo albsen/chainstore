@@ -2,6 +2,7 @@ package chainstore
 
 import (
 	"regexp"
+	"time"
 
 	"golang.org/x/net/context"
 )
@@ -12,6 +13,7 @@ var (
 
 const (
 	maxKeyLen = 256
+	DefaultTimeout = time.Second * 30
 )
 
 // Store represents a store than can be used as a chainstore link.

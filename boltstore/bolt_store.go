@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 
 	"github.com/boltdb/bolt"
-	"github.com/pressly/chainstore"
+	"github.com/albsen/chainstore"
 	"golang.org/x/net/context"
 )
 

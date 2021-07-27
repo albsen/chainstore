@@ -3,7 +3,7 @@ package levelstore
 import (
 	"os"
 
-	"github.com/pressly/chainstore"
+	"github.com/albsen/chainstore"
 	"github.com/syndtr/goleveldb/leveldb"
 	"golang.org/x/net/context"
 )

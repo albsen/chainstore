@@ -5,7 +5,7 @@ import (
 
 	"github.com/mitchellh/goamz/aws"
 	"github.com/mitchellh/goamz/s3"
-	"github.com/pressly/chainstore"
+	"github.com/albsen/chainstore"
 	"golang.org/x/net/context"
 )
 

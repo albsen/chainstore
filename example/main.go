@@ -6,11 +6,11 @@ import (
 	"os"
 	"time"
 
-	"github.com/pressly/chainstore"
-	"github.com/pressly/chainstore/boltstore"
-	"github.com/pressly/chainstore/lrumgr"
-	"github.com/pressly/chainstore/metricsmgr"
-	"github.com/pressly/chainstore/s3store"
+	"github.com/albsen/chainstore"
+	"github.com/albsen/chainstore/boltstore"
+	"github.com/albsen/chainstore/lrumgr"
+	"github.com/albsen/chainstore/metricsmgr"
+	"github.com/albsen/chainstore/s3store"
 	"golang.org/x/net/context"
 )
 

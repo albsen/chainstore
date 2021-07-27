@@ -3,8 +3,8 @@ package lrumgr
 import (
 	"testing"
 
-	"github.com/pressly/chainstore"
-	"github.com/pressly/chainstore/filestore"
+	"github.com/albsen/chainstore"
+	"github.com/albsen/chainstore/filestore"
 	"github.com/stretchr/testify/assert"
 	"golang.org/x/net/context"
 	"io/ioutil"

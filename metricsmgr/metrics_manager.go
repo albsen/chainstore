@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/armon/go-metrics"
-	"github.com/pressly/chainstore"
+	"github.com/albsen/chainstore"
 	"golang.org/x/net/context"
 )
 

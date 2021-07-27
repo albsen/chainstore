@@ -3,8 +3,8 @@ package memstore
 import (
 	"sync"
 
-	"github.com/pressly/chainstore"
-	"github.com/pressly/chainstore/lrumgr"
+	"github.com/albsen/chainstore"
+	"github.com/albsen/chainstore/lrumgr"
 	"golang.org/x/net/context"
 )
 

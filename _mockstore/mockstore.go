@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/pressly/chainstore"
+	"github.com/albsen/chainstore"
 	"golang.org/x/net/context"
 )
 
